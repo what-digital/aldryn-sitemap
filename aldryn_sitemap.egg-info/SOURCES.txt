@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+aldryn_sitemap/__init__.py
+aldryn_sitemap/urls.py
+aldryn_sitemap.egg-info/PKG-INFO
+aldryn_sitemap.egg-info/SOURCES.txt
+aldryn_sitemap.egg-info/dependency_links.txt
+aldryn_sitemap.egg-info/not-zip-safe
+aldryn_sitemap.egg-info/top_level.txt

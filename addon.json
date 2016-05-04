@@ -1,0 +1,7 @@
+{
+    "package-name": "aldryn-sitemap",
+    "installed-apps": [
+        "django.contrib.sitemaps",
+        "aldryn_sitemap"
+    ]
+}
